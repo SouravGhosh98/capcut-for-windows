@@ -1,9 +1,0 @@
-dist/
-.env
-.cache/
-.pnpm-store/
-yarn-error.log*
-.next/
-build/
-node_modules/
-*.log

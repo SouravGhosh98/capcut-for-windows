@@ -1,0 +1,10 @@
+# Text file normalization
+# Exclude build artifacts
+# Normalize line endings
+node_modules/* linguist-vendored
+*.json linguist-detectable=false
+src/**/*.tsx linguist-detectable
+examples/site/** linguist-vendored
+dist/* linguist-vendored
+*.md linguist-documentation
+*.ts linguist-detectable
